@@ -1,6 +1,7 @@
 # Hi, I'm Raleigh
 ### Data Engineer - Transforming complex datasets into actionable insights - SQL Master
 Checkout this project I'm working on: [anchovies (a lightweight ETL library)](https://github.com/raleegh/anchovies)
+
 Checkout my [LinkedIn](https://www.linkedin.com/in/raleigh-burrell-7a9014ba/)!
 
 # Background
